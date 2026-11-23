@@ -1,8 +1,10 @@
 # Moto’s Meticulous Machinations
 
-[![Foundry VTT 13.351](https://img.shields.io/badge/Foundry%20VTT-13.351-A84216?style=for-the-badge&logo=foundryvirtualtabletop&logoColor=white)](#compatibility)
+[![Foundry VTT 13.351](https://img.shields.io/badge/Foundry%20VTT-13.351-287D3C?style=for-the-badge&logo=foundryvirtualtabletop&logoColor=white)](#compatibility)
 [![D&D 5e 5.2.5](https://img.shields.io/badge/D%26D%205e-5.2.5-A12635?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](#compatibility)
 [![D&D 5e 5.3.3 supported, testing pending](https://img.shields.io/badge/D%26D%205e%205.3.3-Supported%20%28Testing%20Pending%29-785618?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](#compatibility)
+
+[![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/motomoto0295)
 
 > [!IMPORTANT]
 > **My release-testing pledge**  
