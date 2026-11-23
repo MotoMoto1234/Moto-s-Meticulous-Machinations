@@ -1,4 +1,5 @@
 # Moto’s Meticulous Machinations
+[![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/motomoto0295)
 
 Moto’s Meticulous Machinations (MMM) is a library of Foundry VTT automations for D&D 5e. Apply them to the items, spells, and features on your actors through the Cauldron of Plentiful Resources (CPR) Medkit.
 
