@@ -16,6 +16,14 @@ Monster Bits entries include their item descriptions. The other packs ship with 
 
 If the Medkit cannot find a match, check the item’s name, document type, and **2014/2024** rules in its source details. The Medkit can also report a match under the other rules version. If the source is visible but the player cannot apply it, have the GM apply it or check CPR’s **Medkit Apply Automation Permissions** and **Medkit Update Automation Permissions**.
 
+## I found descriptions in MMM. Where did they come from?
+
+I create the features in **Monster Bits** and write their descriptions. Some use rules from the D&D System Reference Document 5.2. I share my original material under [MMM’s MIT license](https://github.com/MotoMoto1234/Motos-Meticulous-Machinations/blob/main/LICENSE). SRD material comes from [Wizards of the Coast’s SRD 5.2](https://www.dndbeyond.com/srd) and is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Some automations also write short instructions and reminders during play. **Acidlight** explains how to target the temporary **Snuff Out** action, **Maelfa’s Quickened Class** shows when a lesson expires, and **Shielding Word** shows how many temporary hit points the ward granted and when they expire. These messages explain what to do in Foundry or show the outcome of an automation. I write them in my own words based on the underlying rules.
+
+If you spot wording that appears to reproduce published text, please open an issue with the item name, the passage, and where it comes from so I can review it.
+
 ## Which Midi-QOL settings should I use?
 
 Start with **Enable roll automation support** in Midi-QOL’s main settings. It is a client setting, so check it on the GM client and each player’s client. The rest are in **Workflow Settings**.
