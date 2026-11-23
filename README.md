@@ -1,11 +1,20 @@
 # Moto’s Meticulous Machinations
-[![Buy me a coffee on Ko-fi](https://img.shields.io/badge/Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/motomoto0295)
+
+[![Foundry VTT 13.351](https://img.shields.io/badge/Foundry%20VTT-13.351-A84216?style=for-the-badge&logo=foundryvirtualtabletop&logoColor=white)](#compatibility)
+[![D&D 5e 5.2.5](https://img.shields.io/badge/D%26D%205e-5.2.5-A12635?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](#compatibility)
+[![D&D 5e 5.3.3 supported, testing pending](https://img.shields.io/badge/D%26D%205e%205.3.3-Supported%20%28Testing%20Pending%29-785618?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)](#compatibility)
+
+> [!IMPORTANT]
+> **My release-testing pledge**  
+> I test every build in my live Foundry games before releasing it. Hotfixes are the only exception. This pledge applies to all of my Foundry modules.
 
 Moto’s Meticulous Machinations (MMM) is a library of Foundry VTT automations for D&D 5e. Apply them to the items, spells, and features on your actors through the Cauldron of Plentiful Resources (CPR) Medkit.
 
 ## Compatibility
 
-MMM targets Foundry VTT **v13** and D&D 5e **5.2.5**. The initial release was built against Foundry **13.351**, CPR **1.5.51**, Midi-QOL **13.0.73**, Dynamic Active Effects **13.0.32**, and Times Up **13.1.9**. SocketLib and libWrapper are also required.
+The supported baseline is Foundry VTT **13.351** and D&D 5e **5.2.5**. MMM also supports D&D 5e **5.3.3**, with compatibility testing still pending.
+
+The initial release was built against CPR **1.5.51**, Midi-QOL **13.0.73**, Dynamic Active Effects **13.0.32**, and Times Up **13.1.9**. SocketLib and libWrapper are also required.
 
 Sequencer and the relevant JB2A pack are optional for supported visuals. Some automations can use additional modules for features such as mounting or token art. See the [FAQ](FAQ.md) for setup details.
 
